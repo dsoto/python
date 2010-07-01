@@ -5,6 +5,10 @@ daniel soto
 Tue Dec 11 02:58:17 PST 2007
 '''
 
+'''
+playing with inline editing of github repo
+'''
+
 import re
 import os
 import glob
